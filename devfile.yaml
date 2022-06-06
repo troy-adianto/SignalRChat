@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: signalrchat
     source:
-      location: 'ssh://git@github.com:troy-adianto/signalrchat.git'
+      location: 'https://github.com/troy-adianto/signalrchat.git'
       type: git
       branch: main
 components:
